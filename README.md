@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Khaire</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="60" height="60" />, I'm Rohit Khaire</h1>
 <h3 align="center">Third Year Student of Information Technology Engineering</h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" style="width: 2em; height: 2em; vertical-align: text-bottom;"/> I’m delving into **various facets of the tech industry, from full-stack and development to DevOps and AI**
@@ -6,7 +6,7 @@
 <div style="display:flex;justify-content:space-end;">
   <span style="display:flex;justify-content:flex-start;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" style="width: 2em; height: 2em; vertical-align: middle;margin-right:100px;" />
-    How to reach me <strong>rohitkhaire9833@gmail.com</strong>
+    How to reach me <a href="mailto:rohitkhaire9833@gmail.com"><strong>rohitkhaire9833@gmail.com</strong></a>
   </span>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Connect GIF" style="width: 500px; height: 400px;display:flex;justify-content:flex-end;" />
 </div>
